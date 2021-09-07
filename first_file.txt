@@ -1,2 +1,3 @@
 This is the first line of our new file, yay.
-This is the second line of the first file added locally. 
+This is the second line of our first file added remotely.
+This is the third line of the first file added locally. 
